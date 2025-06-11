@@ -4,12 +4,17 @@
 > [!NOTE]
 > Multicor Priority adalah aplikasi Android buatan saya yang dirancang untuk memberikan kontrol penuh terhadap berbagai pengaturan sistem tanpa perlu akses root. Aplikasi ini berjalan melalui ADB Shell dan memanfaatkan API Shizuku secara native, sehingga tidak membebani layanan sistem. Versi 1.0 ini merupakan rilis perdana yang menghadirkan halaman aplikasi untuk pengaturan yang lebih terstruktur dan mudah digunakan, log layanan untuk memantau aktivitas sistem secara real-time, serta dukungan untuk berbagai perangkat. Multicor Priority kompatibel dengan perangkat Android 10 ,hingga versi Android terbaru
 
+> [!NOTE]
+> Multicor Priority 1.6
+> Issues with display the truncated dan penambahab kode² di teipa opsi nya. 
+
 > [!IMPORTANT]
-> - Settings Gameplay TNR (Tuner Game)
-> - Disable Logcat window manager
-> - Settings Mode dayli
-> - Settings Usage Refres Rate Device
-> - Settings Renderer Hwui
+> - Better the performance result
+> - Disable Logcat window manager and stop streming profile
+> - Settings Mode dayli add deviceidle
+> - Settings Usage Refres Rate Device Enhancer
+> - Settings Renderer Hwui Enhancer
+> - Issues with display the truncated
 
 > [!WARNING]
 > Sebelum running aplikasi nya kalian wajib running sizuku dulu, jika kalian tidak merunning server sizuku terlebih dahulu maka aplikasi bakalan mental(force closs) sendiri, maka dari itu saya selaku pembuat aplikasi nya sangat² menekankan itu.....
