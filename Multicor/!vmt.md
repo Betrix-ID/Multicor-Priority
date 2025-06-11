@@ -20,12 +20,13 @@ kalian support dill
  - lalu Running server sizuku
  - Buka dan rasakan Aplikasi nya 
 
- ** ` Fature Multicor Priority 1.0 ` **
- - Settings Gameplay TNR (Tuner Game)
- - Disable Logcat window manager
- - Settings Mode dayli
- - Settings Usage Refres Rate Device
- - Settings Renderer Hwui
+ ** ` Fature Multicor Priority 1.6 ` **
+ - Better the performance result
+ - Disable Logcat window manager and stop streming profile
+ - Settings Mode dayli add deviceidle
+ - Settings Usage Refres Rate Device Enhancer
+ - Settings Renderer Hwui Enhancer
+ - Issues with display the truncated
  
  # Penanggung Jawab 100% By :
 - @UnixeID | Telegram
